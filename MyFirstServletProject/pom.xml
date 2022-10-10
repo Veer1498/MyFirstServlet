@@ -5,6 +5,10 @@
   <artifactId>MyFirstServletProject</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
+  <properties>
+    <maven.compiler.source>18</maven.compiler.source>
+    <maven.compiler.target>18</maven.compiler.target>
+  </properties>
   <name>MyFirstServletProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
